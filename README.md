@@ -64,23 +64,10 @@ Reference Paper
 
 [3] Snoek, J., Larochelle, H., & Adams, R. P. (2012). Practical bayesian optimization of machine learning algorithms. In Advances in neural information processing systems (pp. 2951-2959).
 
-Contributor
-------------
-- Sunil Sahoo
-- Brojo Kishore Mishra
-- [Shantipriya Parida](https://www.idiap.ch/~sparida/)
-- [Satya Ranjan Dash](https://ksca.kiit.ac.in/profiles/satya-ranjan-dash/)
-- Jatindra Nath Besra
-- [Esau Villatoro-Tello](https://www.idiap.ch/~evillatoro/) 
 
 Citation
 --------
 
 If you found our research helpful or influential please consider citing
 
-@inproceedings{santali_dialect_detection,
-  title={Automatic Dialect Detection for Low Resource Santali Language},
-  author={Sahoo, Sunil and Mishra, Brojo Kishore and Parida, Shantipriya and Dash, Satya Ranjan and Besra, Jatindra Nath and {\'u} Villatoro-Tello, Esau},
-  booktitle={Proceedings of the 19th OITS International Conference on Information Technology},
-  year={2021}
-}
+
